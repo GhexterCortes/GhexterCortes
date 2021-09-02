@@ -4,8 +4,8 @@
 
 <!-- ### My top languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhexterCortes&layout=compact&theme=dracula&langs_count=3) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhexterCortes&layout=compact&theme=dracula&langs_count=3
 
 ### Featured Repository
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FalloutStudios&repo=HiddenPlayer&theme=dracula&show_owner=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FalloutStudios&repo=HiddenPlayer&theme=dracula&show_owner=true)) -->
