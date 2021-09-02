@@ -1,6 +1,6 @@
 ### Ghexter Cortes
 
-![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=GhexterCortes&count_private=true&show_icons=true&theme=dracula&hide_rank=false)
+![Ghexter's github stats](https://github-readme-stats.vercel.app/api?username=GhexterCortes&count_private=true&show_icons=true&theme=dracula&hide_rank=false)
 
 <!-- ### My top languages
 
