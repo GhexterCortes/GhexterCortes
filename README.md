@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm GhexterCortes <code>Ghex</code></h1>
+<h1 align="center">Hi 👋, I'm Ghex</h1>
 <h3 align="center">Javascript and PHP learner.</h3>
 
-<p align="center"> 🌱 I’m currently learning <b>Javascript, PHP, Java</b> </p>
+<p align="center"> 🌱 I’m currently learning <b>Javascript, PHP, Java, Python</b> </p>
 
 ### Connect with me:
 <p align="left">
