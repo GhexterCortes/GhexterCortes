@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghex</h1>
-<h3 align="center">Javascript and PHP learner.</h3>
+<h3 align="center">I'm not sus</h3>
 
 <p align="center"> 🌱 I’m currently learning <b>Javascript, PHP, Java, Python</b> </p>
 
