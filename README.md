@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ghex</h1>
 <h3 align="center">I'm not sus</h3>
 
-<p align="center"> 🌱 I’m currently learning <b>Javascript, PHP, Java, Python</b><br><a href="https://wakatime.com/@13e28714-8b6a-4522-863d-ba185e3d1bb8"><img src="https://wakatime.com/badge/user/13e28714-8b6a-4522-863d-ba185e3d1bb8.svg" alt="Total time coded since Jan 1 2022" /></a></p>
+<p align="center"> 🌱 I’m currently learning <b>Javascript, PHP, Java, Python</b><br><a href="https://wakatime.com/@13e28714-8b6a-4522-863d-ba185e3d1bb8"><img src="https://wakatime.com/badge/user/13e28714-8b6a-4522-863d-ba185e3d1bb8.svg" alt="WakaTime" /></a></p>
 
 ### Connect with me:
 <p align="left">
