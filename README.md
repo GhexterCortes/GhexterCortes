@@ -9,7 +9,7 @@ I'm Ghexter Cortes and I'm a human <img src="https://emoji.discord.st/emojis/Zuc
 * [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TWITTER: cortesghexter" height="30" width="40"> **Twitter**](https://twitter.com/cortesghexter)
 * [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="INSTAGRAM: ghex.e_" height="30" width="40"> **Instagram**](https://www.instagram.com/ghex.e_/)
 * [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"> **Discord**](https://discord.com/users/749120018771345488)
-* [&nbsp;<img align="center" src="https://lists.heywith.com/static/4a7f06dd61f761a3d49550df579f41be/OnlyFans_logo_2.jpeg" height="30" width="30">&nbsp; **OnlyFans**](https://youtu.be/dQw4w9WgXcQ)
+* [&nbsp;<img align="center" src="https://lists.heywith.com/static/4a7f06dd61f761a3d49550df579f41be/OnlyFans_logo_2.jpeg" height="30" width="30">&nbsp; **OnlyFans**](https://bit.ly/3I0j8XB)
 
 # Launguages and Tools <img src="https://emoji.discord.st/emojis/2fe12eb9-cd6b-45e3-8400-8bcd7477002d.gif" height="30" width="30">
 
