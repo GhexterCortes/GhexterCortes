@@ -58,6 +58,9 @@ I'm Ghexter Cortes and I'm a human <img src="https://emoji.discord.st/emojis/Zuc
   <a href="https://www.photoshop.com/en" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
+  <a href="https://cornhub.website">
+    <img src="https://cdn.corn.rocks/i/logo.png" alt="cornhub" height="40">
+  </a>
   <a href="https://www.php.net" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
