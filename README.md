@@ -11,7 +11,7 @@ I'm Ghexter Cortes and I'm a human <img src="https://emoji.discord.st/emojis/Zuc
 * [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"> **Discord**](https://discord.com/users/749120018771345488)
 * [&nbsp;<img align="center" src="https://lists.heywith.com/static/4a7f06dd61f761a3d49550df579f41be/OnlyFans_logo_2.jpeg" height="30" width="30">&nbsp; **OnlyFans**](https://bit.ly/3I0j8XB)
 
-# Launguages and Tools <img src="https://emoji.discord.st/emojis/2fe12eb9-cd6b-45e3-8400-8bcd7477002d.gif" height="30" width="30">
+# Launguages and Tools <img src="https://github.githubassets.com/images/mona-loading-dark.gif" height="30" width="30">
 
 <p align="left">
   <a href="https://cordova.apache.org/" target="_blank">
