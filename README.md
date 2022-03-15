@@ -71,5 +71,6 @@ I'm Ghexter Cortes and I'm a human <img src="https://emoji.discord.st/emojis/Zuc
 
 # Stats <a href="https://wakatime.com/@13e28714-8b6a-4522-863d-ba185e3d1bb8"><img src="https://wakatime.com/badge/user/13e28714-8b6a-4522-863d-ba185e3d1bb8.svg" alt="WakaTime"></a>
 
-|![](https://github-readme-stats.vercel.app/api?username=ghextercortes&show_icons=true&theme=dark&title_color=ffffff&text_color=c061cb&bg_color=241f31&hide_border=true&locale=en)|![](https://github-readme-stats.vercel.app/api/top-langs?username=ghextercortes&show_icons=true&theme=dark&title_color=ffffff&text_color=c061cb&bg_color=241f31&hide_border=true&locale=en&layout=compact)|
-|---|---|
+![](https://github-readme-stats.vercel.app/api?username=ghextercortes&show_icons=true&theme=dark&title_color=ffffff&text_color=c061cb&bg_color=241f31&hide_border=true&locale=en)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=ghextercortes&show_icons=true&langs_count=5&theme=dark&title_color=ffffff&text_color=c061cb&bg_color=241f31&hide_border=true&locale=en&layout=compact)
