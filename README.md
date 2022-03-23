@@ -1,4 +1,4 @@
-![](https://i.imgur.com/KbrnVpZ.png)
+![](https://i.imgur.com/CYP1uRd.png)
 
 # About Me <img src="https://emoji.discord.st/emojis/f819cbea-7e86-4d37-807c-f3457f56ea51.gif" height="30" width="30">
 
