@@ -78,5 +78,5 @@ I'm Ghexter Cortes and I'm a human <img src="https://emoji.discord.st/emojis/Zuc
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=ghextercortes&show_icons=true&langs_count=5&theme=dark&title_color=ffffff&text_color=c061cb&bg_color=241f31&hide_border=true&locale=en&layout=compact)
 
-# Extiction Rebellion
+# Extinction Rebellion
 [![](https://i.imgur.com/GbB1ZuH.png)](https://rebellion.global/)
