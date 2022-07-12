@@ -9,7 +9,6 @@ I'm Ghexter Cortes and I'm a human <img src="https://emoji.discord.st/emojis/Zuc
 * [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TWITTER: cortesghexter" height="30" width="40"> **Twitter**](https://twitter.com/cortesghexter)
 * [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="INSTAGRAM: ghex.e_" height="30" width="40"> **Instagram**](https://www.instagram.com/ghex.e_/)
 * [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"> **Discord**](https://discord.com/users/749120018771345488)
-* [&nbsp;<img align="center" src="https://lists.heywith.com/static/4a7f06dd61f761a3d49550df579f41be/OnlyFans_logo_2.jpeg" height="30" width="30">&nbsp; **OnlyFolks**](https://bit.ly/3I0j8XB)
 
 # Launguages and Tools <img src="https://github.githubassets.com/images/mona-loading-dark.gif" height="30" width="30">
 
@@ -61,9 +60,6 @@ I'm Ghexter Cortes and I'm a human <img src="https://emoji.discord.st/emojis/Zuc
   <a href="https://www.photoshop.com/en" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
-  <a href="https://cornhub.website">
-    <img src="https://cdn.corn.rocks/i/logo.png" alt="cornhub" height="40">
-  </a>
   <a href="https://www.php.net" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
@@ -72,7 +68,7 @@ I'm Ghexter Cortes and I'm a human <img src="https://emoji.discord.st/emojis/Zuc
   </a>
 </p>
 
-# Stats <a href="https://wakatime.com/@13e28714-8b6a-4522-863d-ba185e3d1bb8"><img src="https://wakatime.com/badge/user/13e28714-8b6a-4522-863d-ba185e3d1bb8.svg" alt="WakaTime"></a>
+# Stats <a href="https://wakatime.com/@13e28714-8b6a-4522-863d-ba185e3d1bb8"><img src="https://wakatime.com/badge/user/13e28714-8b6a-4522-863d-ba185e3d1bb8.svg" alt="Estimated wasted time in my life"></a>
 
 ![](https://github-readme-stats.vercel.app/api?username=ghextercortes&show_icons=true&theme=dark&title_color=ffffff&text_color=c061cb&bg_color=241f31&hide_border=true&locale=en)
 
