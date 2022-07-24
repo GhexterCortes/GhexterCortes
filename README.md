@@ -4,11 +4,9 @@
 
 I'm Ghexter Cortes and I'm a human <img src="https://emoji.discord.st/emojis/ZuckWater.png" height="20" width="20">. I'm currently sitting in my room, browsing the internet on how to center a `div`.
 
-# Social Accounts
+# Contact
 
-* [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TWITTER: cortesghexter" height="30" width="40"> **Twitter**](https://twitter.com/cortesghexter)
-* [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="INSTAGRAM: ghex.e_" height="30" width="40"> **Instagram**](https://www.instagram.com/ghex.e_/)
-* [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"> **Discord**](https://discord.com/users/749120018771345488)
+[![Discord](https://img.shields.io/badge/Ghex%237338-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/749120018771345488)
 
 # Launguages and Tools <img src="https://github.githubassets.com/images/mona-loading-dark.gif" height="30" width="30">
 
