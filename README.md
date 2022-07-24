@@ -4,7 +4,7 @@
 
 # Abouwt me <img src="https://cdn3.emoji.gg/emojis/bongocat.gif" height="20" width="auto">
 
-I'm Ghex and I'm a human <img src="https://emoji.discord.st/emojis/ZuckWater.png" height="20" width="20"> Currently sitting in my room, browsing the internet on how to center a `div`.
+I'm Ghex and i'm a huwman <img src="https://emoji.discord.st/emojis/ZuckWater.png" height="20" width="20"> I do code when i'm bowed and depwecate them when i'm bowed too :3
 
 # Discowd Pwofiwe
 
