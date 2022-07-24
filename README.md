@@ -2,7 +2,7 @@
 
 # About Me <img src="https://emoji.discord.st/emojis/f819cbea-7e86-4d37-807c-f3457f56ea51.gif" height="30" width="30">
 
-I'm Ghexter Cortes and I'm a human <img src="https://emoji.discord.st/emojis/ZuckWater.png" height="20" width="20">. I'm currently sitting in my room, browsing the internet on how to center a `div`.
+I'm Ghexter Cortes and I'm a human <img src="https://emoji.discord.st/emojis/ZuckWater.png" height="20" width="20"> Currently sitting in my room, browsing the internet on how to center a `div`.
 
 # Contact
 
