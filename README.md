@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/hcKpAKs.png">
+  <img src="https://i.imgur.com/Cj8D852.png">
 <p>
 
 # Abouwt me <img src="https://cdn3.emoji.gg/emojis/bongocat.gif" height="20" width="auto">
