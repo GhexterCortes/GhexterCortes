@@ -33,7 +33,7 @@ I'm Ghexter Cortes and I'm a human <img src="https://emoji.discord.st/emojis/Zuc
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=Flat&logo=typescript&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=Flat&logo=linux&logoColor=black)
 
-# Stats <a href="https://wakatime.com/@13e28714-8b6a-4522-863d-ba185e3d1bb8"><img src="https://wakatime.com/badge/user/13e28714-8b6a-4522-863d-ba185e3d1bb8.svg" alt="Estimated wasted time in my life"></a>
+# Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=ghextercortes&show_icons=true&theme=dark&title_color=ffffff&text_color=c061cb&bg_color=241f31&hide_border=true&locale=en)
 
