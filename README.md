@@ -1,14 +1,14 @@
-![](https://i.imgur.com/CYP1uRd.png)
+![](https://i.imgur.com/k3RDI6T.png)
 
-# About Me <img src="https://emoji.discord.st/emojis/f819cbea-7e86-4d37-807c-f3457f56ea51.gif" height="30" width="30">
+# Abouwt me <img src="https://cdn3.emoji.gg/emojis/bongocat.gif" height="20" width="auto">
 
 I'm Ghex and I'm a human <img src="https://emoji.discord.st/emojis/ZuckWater.png" height="20" width="20"> Currently sitting in my room, browsing the internet on how to center a `div`.
 
-# Contact
+# Discowd Pwofiwe
 
 [![Discord](https://img.shields.io/badge/Ghex%237338-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/749120018771345488)
 
-# Launguages and Tools <img src="https://github.githubassets.com/images/mona-loading-dark.gif" height="30" width="30">
+# Lauwnguwages and Toows <img src="https://github.githubassets.com/images/mona-loading-dark.gif" height="30" width="30">
 
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=Flat&logo=mysql&logoColor=white)
@@ -34,11 +34,12 @@ I'm Ghex and I'm a human <img src="https://emoji.discord.st/emojis/ZuckWater.png
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=Flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=Flat&logo=git&logoColor=white)
 
-# Stats
+# Githuwb Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=ghextercortes&show_icons=true&theme=dark&title_color=ffffff&text_color=c061cb&bg_color=241f31&hide_border=true&locale=en)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=ghextercortes&show_icons=true&langs_count=5&theme=dark&title_color=ffffff&text_color=c061cb&bg_color=241f31&hide_border=true&locale=en&layout=compact)
 
+***
 
 [#lettheearthbreathe](https://rebellion.global/)
